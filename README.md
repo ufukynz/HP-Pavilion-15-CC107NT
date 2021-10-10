@@ -21,6 +21,7 @@ macOS EFI for HP Pavilion 15-cc107nt.
 - Touchpad
 - All USB Ports
 - Internal Microphone
+- Battery Indicator
 - Audio
 
 All kexts updated. There's no problem detected yet. System working stable.
