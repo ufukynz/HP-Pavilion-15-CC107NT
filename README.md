@@ -1,4 +1,4 @@
-# HP-Pavilion-15-CC107NT OpenCore 0.7.4
+# HP-Pavilion-15-CC107NT OpenCore
 macOS EFI for HP Pavilion 15-cc107nt.
 
 ## System Info
@@ -13,11 +13,11 @@ macOS EFI for HP Pavilion 15-cc107nt.
 
 ## Whats Working?
 
-- Only Intel UHD 620 Working. External NVIDIA GPU not supported on macOS Big Sur. (HDMI Working)
-- Wi-Fi & Bluetooth (Airdrop not working because AirportItlwm.kext not added support yet)
+- Only Intel UHD 620 Working. External NVIDIA GPU not supported on macOS. (HDMI Working)
+- Wi-Fi & Bluetooth (Airdrop not working because AirportItlwm.kext not added support)
 - Touchpad
 - All USB Ports
 - Internal Microphone
 - Audio
 
-This EFI builded on **OpenCore 0.7.4** and all kexts updated. There's no problem detected yet. System working stable.
+All kexts updated. There's no problem detected yet. System working stable.
