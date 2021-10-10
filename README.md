@@ -1,5 +1,5 @@
 # HP-Pavilion-15-CC107NT OpenCore 0.7.4
-macOS Big Sur 11.6 EFI for HP Pavilion 15-cc107nt.
+macOS EFI for HP Pavilion 15-cc107nt.
 
 ## System Info
 
