@@ -1,7 +1,7 @@
 # HP-Pavilion-15-CC107NT OpenCore
 macOS EFI for HP Pavilion 15-cc107nt.
 
-## Download Link
+## Downloads
 > [All Releases](https://github.com/ufukynz/HP-Pavilion-15-CC107NT/releases)
 
 ## System Info
