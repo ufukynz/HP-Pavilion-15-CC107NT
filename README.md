@@ -25,3 +25,6 @@ macOS EFI for HP Pavilion 15-cc107nt.
 - Audio
 
 All kexts updated. There's no problem detected yet. System working stable.
+
+
+![macos](https://user-images.githubusercontent.com/28110756/137334253-d33bea58-afdf-4270-b976-8643114975ff.png)
