@@ -11,13 +11,13 @@ macOS EFI for HP Pavilion 15-cc107nt.
 - NVIDIA GeForce GT940MX
 - Intel Wireless AC 7265
 - Realtek ALC295
-- 15.6 Inch (1366x768) Screen
+- 15.6 Inch (1920x1080) Screen
 - Elan Touchpad
 
 ## Whats Working?
 
 - Only Intel UHD 620 Working. External NVIDIA GPU not supported on macOS. (HDMI Working)
-- Wi-Fi & Bluetooth (Airdrop not working because AirportItlwm.kext not added support)
+- Wi-Fi & Bluetooth (Airdrop not working)
 - Touchpad
 - All USB Ports
 - Internal Microphone
